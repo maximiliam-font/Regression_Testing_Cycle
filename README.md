@@ -62,19 +62,19 @@ The documentation contributes to complete traceability between test cases and de
  - Test states: proper handling of Passed, Failed, and Skipped cases.
 
 ## 📦 Demonstrated Skills
--Execution of regression testing in real environments.
--Detection and documentation of bugs with clarity and traceability.
--Validation of critical flows and business rules.
--Analysis of results and comparison with acceptance criteria.
--Structured communication oriented to the development team.
--Critical thinking applied to user scenarios and potential failures.
+- Execution of regression testing in real environments.
+- Detection and documentation of bugs with clarity and traceability.
+- Validation of critical flows and business rules.
+- Analysis of results and comparison with acceptance criteria.
+- Structured communication oriented to the development team.
+- Critical thinking applied to user scenarios and potential failures.
 
 ## 🧩Key Points
--Turned predefined test cases into an organized and measurable execution process.
--Identified and documented all defects expected for the sprint.
--Ensured complete coverage of critical application flows.
--Created clear, reproducible, and prioritized bug reports.
--Integrated evaluator feedback quickly and effectively, showing learning and continuous improvement.
+- Turned predefined test cases into an organized and measurable execution process.
+- Identified and documented all defects expected for the sprint.
+- Ensured complete coverage of critical application flows.
+- Created clear, reproducible, and prioritized bug reports.
+- Integrated evaluator feedback quickly and effectively, showing learning and continuous improvement.
 ## Conclusion
 This project allowed me to demonstrate my capacity as a Junior QA Engineer, executing regression tests in a structured and professional manner.
 Through requirements analysis, test execution, defect identification, and documentation of findings, I ensured the stability and functionality of Urban Routes.
